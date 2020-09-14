@@ -1,19 +1,30 @@
 body {
     background-color: #F5F5F7;
 }
+
+header {
+    background-color: transparent;
+    text-align: 113px;
+    font-family:'Montserrat',sans-serif;;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
 h1 {
     font-size: 56px;
-    font-style: bold;
     color: #1A2533;
 }
 h2 {
     font-size: 36px;
-    font-style: bold;
     color:#1A2533;
 }
 h3 {
     font-size: 16px;
-    font-style: bold;
-    font: ;
     color:#1A2533;
+}
+.pb {
+    font-size: 16px;
+    font-style: bold;
+    color: #F5F5F7
 }
